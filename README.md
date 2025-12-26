@@ -4,6 +4,11 @@ footer { background: #343a40; color: white; text-align: center; padding: 10px; m
 .tool-container { max-width: 800px; margin: 20px auto; padding: 20px; background: white; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
 .btn { margin: 5px; }
 .ads-placeholder { background: #e9ecef; height: 100px; text-align: center; padding: 20px; margin: 20px 0; } /* For AdSense later */
+// Simple navigation toggle for mobile (if needed)
+document.addEventListener('DOMContentLoaded', function() {
+    // Add any shared logic, e.g., analytics placeholder
+    console.log('Page loaded');
+});
 
 
 <!DOCTYPE html>
